@@ -8,6 +8,3 @@ theme: theme: jekyll-theme-architect
 timezone: America/Chicago
 permalink: /archives/:year/:month/:day/:title:output_ext
 github_username: jlroofs
-
-plugins:
-  - jekyll-sitemap
