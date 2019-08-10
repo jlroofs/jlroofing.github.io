@@ -13,7 +13,4 @@ layout: default
   <l1><a href="/past_projects/{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-<ul>
-<li><a href="{{ site.url }}/past_projects/123FakeStreet.html">123 Fake Street</a></li>
-</ul>
 </section>
