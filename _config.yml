@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://jlroofs.github.io"
 description: JLRoofing
 show-downloads: false
-theme: Slate
+theme: jekyll-theme-slate
 timezone: America/Chicago
 permalink: /archives/:year/:month/:day/:title:output_ext
 github_username: jlroofs
