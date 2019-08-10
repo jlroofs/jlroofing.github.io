@@ -4,7 +4,3 @@
 
 layout: default
 ---
-
-<div style="align: center;">
-  <h1>JLRoofing</h1>
-</div>
