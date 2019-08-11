@@ -10,7 +10,7 @@ layout: default
 <section>
 <ul>
 {% for post in site.posts %}
-  <l1><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></li>
+  <l1><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
