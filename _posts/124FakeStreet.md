@@ -1,7 +1,7 @@
 ---
 layout: default
 title: '124 Fake Street'
-tag: Mayfield
+tags: ['Mayfield']
 ---
 
 <h1>IT WORKED</h1>
