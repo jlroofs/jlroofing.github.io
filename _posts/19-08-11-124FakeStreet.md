@@ -8,8 +8,3 @@ tags: ['Metal Roof']
 ---
 
 <h1>IT WORKED</h1>
-<!--
-<div id="project_desc" style="float: center;">
-  <img src="https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg" alt="post_frame_building" width="300px" height="250px"/>
-</div>
--->
