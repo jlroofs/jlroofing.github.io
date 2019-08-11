@@ -6,7 +6,7 @@ date: 19-08-11 08:30:32
 published: true
 tags: ['Metal Roof']
 ---
-<h1>{{ title }} in {{ city }}</h1>
+<h1>{{ page.title }} in {{ page.city }}</h1>
 <hr>
 
 <div style="align: center; column-count: 4; padding: 0 50px 0 50px">
