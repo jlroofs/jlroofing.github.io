@@ -26,7 +26,7 @@ layout: default
       {% if tag != 'Post Frame' %}
         {% assign t = tag | first %}
         {% assign posts = tag | last %}
-        <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+        <li>We have completed {{ posts | size }} {{t | downcase | replace:" ","-" }} projects!</li>
       {% endif %}
     {% endfor %}
   </ul>
