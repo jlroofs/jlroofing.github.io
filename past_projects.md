@@ -33,6 +33,16 @@ layout: default
 
   <hr>
 
+  <ul class="cities">
+    {% for city in site.cities %}
+      {% assign c = city | first %}
+      {% assign posts = city | last %}
+      <li>{{city | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+
   {% for tag in site.tags %}
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
