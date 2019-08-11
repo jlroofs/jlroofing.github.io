@@ -9,8 +9,8 @@ layout: default
 
 <section>
 <ul>
-{% for post in site.past_projects[main] %}
-  <l1><a href="/past_projects/main/{{ post.title }}">{{ post.title }}</a></li>
+{% for post in site.posts.main %}
+  <l1><a href="/posts/main/{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 </section>
