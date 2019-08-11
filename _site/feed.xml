@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-11T10:01:44-05:00</updated>
+<updated>2019-08-11T10:03:14-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
 <entry>
@@ -15,7 +15,6 @@
 <content type="html" xml:base="https://jlroofs.github.io//2008/11/19/124FakeStreet.html">&lt;h1&gt;IT WORKED&lt;/h1&gt;
 </content>
 <category term="Metal Roof" />
-<category term="Mayfield" />
 <summary>IT WORKED</summary>
 </entry>
 <entry>
@@ -27,7 +26,6 @@
 <content type="html" xml:base="https://jlroofs.github.io//2008/10/19/40x60_post_frame.html">&lt;h1&gt;IT WORKED&lt;/h1&gt;
 </content>
 <category term="Post Frame" />
-<category term="Elkton" />
 <summary>IT WORKED</summary>
 </entry>
 </feed>
