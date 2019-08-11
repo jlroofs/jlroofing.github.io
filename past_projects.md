@@ -7,7 +7,7 @@ layout: default
   <hr>
 </div>
 
-<section>
+<div class="past_projects">
   <ul>
     {% for post in site.posts %}
       <l1><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -44,11 +44,11 @@ layout: default
   {% endfor %}
 
   <ul class="cats">
-  {% for category in site.categories %}
-    {% assign c = category | first %}
-    {% assign posts = category | last %}
-    <li>{{c | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-  {% endfor %}
+    {% for category in site.categories %}
+      {% assign c = category | first %}
+      {% assign posts = category | last %}
+      <li>{{c | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+    {% endfor %}
   </ul>
 
-</section>
+</div>
