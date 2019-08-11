@@ -21,12 +21,14 @@ layout: default
 
   <hr>
 
+
+  <h3>We have completed:</h3>
   <ul class="tags">
     {% for tag in site.tags %}
       {% if tag != 'Post Frame' %}
         {% assign t = tag | first %}
         {% assign posts = tag | last %}
-        <li>We have completed {{ posts | size }} {{t | downcase | replace:" ","-" }} projects!</li>
+        <li>  -  {{ posts | size }} {{t | downcase | replace:" ","-" }} projects!</li>
       {% endif %}
     {% endfor %}
   </ul>
