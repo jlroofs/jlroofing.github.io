@@ -8,4 +8,4 @@ tags: ['Metal Roof']
 ---
 
 <h1>IT WORKED</h1>
-<a href="https://jlroofs.github.io"><img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg"
+<a href="https://jlroofs.github.io"><img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg" style="width: 300px; height: 250px"/></a>
