@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-11T15:02:23-05:00</updated>
+<updated>2019-08-11T15:12:31-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
 <entry>
@@ -13,10 +13,15 @@
 <updated>2019-08-11T08:30:32-05:00</updated>
 <id>https://jlroofs.github.io//2019/08/11/124FakeStreet</id>
 <content type="html" xml:base="https://jlroofs.github.io//2019/08/11/124FakeStreet.html">&lt;h1&gt;IT WORKED&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;align: center; column-count: 4; padding: 0 25px 0 25px&quot;&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+&lt;/div&gt;
 </content>
 <category term="Metal Roof" />
-<summary>IT WORKED</summary>
+<summary>IT WORKED    </summary>
 </entry>
 <entry>
 <title>40x60 Post Frame</title>

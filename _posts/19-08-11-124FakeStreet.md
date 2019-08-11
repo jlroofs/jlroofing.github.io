@@ -8,4 +8,9 @@ tags: ['Metal Roof']
 ---
 
 <h1>IT WORKED</h1>
-<img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+<div style="align: center; column-count: 4; padding: 0 25px 0 25px">
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+</div>
