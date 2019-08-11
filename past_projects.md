@@ -10,10 +10,12 @@ layout: default
 <div class="past_projects">
   <ul>
     {% for post in site.posts %}
-      {% assign t = tag | first %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }} --- {{ t }}</a>
-      </li>
+      {% for tag in post.tags %}
+        {% assign t = tag | second %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }} --- {{ t }}</a>
+        </li>
+      {% endfor %}
     {% endfor %}
   </ul>
 
