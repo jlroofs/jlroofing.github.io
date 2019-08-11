@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-11T15:18:08-05:00</updated>
+<updated>2019-08-11T15:21:47-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
 <entry>
@@ -29,9 +29,11 @@
 <published>2019-08-10T12:32:46-05:00</published>
 <updated>2019-08-10T12:32:46-05:00</updated>
 <id>https://jlroofs.github.io//2019/08/10/40x60_post_frame</id>
-<content type="html" xml:base="https://jlroofs.github.io//2019/08/10/40x60_post_frame.html">&lt;h1&gt;IT WORKED&lt;/h1&gt;
+<content type="html" xml:base="https://jlroofs.github.io//2019/08/10/40x60_post_frame.html">&lt;h1&gt;{{ post.title }} in {{ post.city }}&lt;/h1&gt;
+&lt;hr /&gt;
+
 </content>
 <category term="Post Frame" />
-<summary>IT WORKED</summary>
+<summary> in </summary>
 </entry>
 </feed>
