@@ -30,7 +30,7 @@ layout: default
 
   <hr>
 
-  {% assign cities = [] %}
+  {% assign cities = [''] %}
   {% for post in site.posts %}
 
     {% assign t = tag | first %}
