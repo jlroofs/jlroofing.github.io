@@ -14,7 +14,7 @@ layout: default
         {% if tag != 'Post Frame' and tag != 'Metal Roof' %}
           {% assign t = tag | first %}
           <li>
-            <a href="{{ post.url }}">{{ post.title }} --- {{ t }}</a>
+            <a href="{{ post.url }}">{{ post.title }} --- {{ post.city }}</a>
           </li>
         {% endif %}
       {% endfor %}
