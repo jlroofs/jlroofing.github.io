@@ -30,8 +30,9 @@ layout: default
 
   <hr>
 
+  {% assign cities = [] %}
+  {% for post in site.posts %}
 
-  {% for tag in site.tags %}
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
 
