@@ -8,4 +8,4 @@ tags: ['Metal Roof']
 ---
 
 <h1>IT WORKED</h1>
-![My helpful screenshot]({{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg)
+![My helpful screenshot]({{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg =250x250)
