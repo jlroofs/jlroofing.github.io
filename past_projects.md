@@ -28,14 +28,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <hr>
-
-  {% assign cities = [''] %}
-  {% for post in site.posts %}
-
-    {% assign t = tag | first %}
-    {% assign posts = tag | last %}
-
 <!--
   {{ t | downcase }}
     <ul>
