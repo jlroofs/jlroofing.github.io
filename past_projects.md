@@ -10,7 +10,9 @@ layout: default
 <div class="past_projects">
   <ul>
     {% for post in site.posts %}
-      <l1><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
     {% endfor %}
   </ul>
 
@@ -30,6 +32,7 @@ layout: default
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
 
+<!--
   {{ t | downcase }}
     <ul>
       {% for post in posts %}
@@ -42,13 +45,6 @@ layout: default
       {% endfor %}
     </ul>
   {% endfor %}
-
-  <ul class="cats">
-    {% for category in site.categories %}
-      {% assign c = category | first %}
-      {% assign posts = category | last %}
-      <li>{{c | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-    {% endfor %}
-  </ul>
+-->
 
 </div>
