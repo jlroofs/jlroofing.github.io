@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
+<link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
+<link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
+<updated>2019-08-11T15:32:04-05:00</updated>
+<id>https://jlroofs.github.io//</id>
+<subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
+<entry>
+<title>40x60 Metal Roof</title>
+<link href="https://jlroofs.github.io//2019/08/11/124FakeStreet.html" rel="alternate" type="text/html" title="40x60 Metal Roof" />
+<published>2019-08-11T08:30:32-05:00</published>
+<updated>2019-08-11T08:30:32-05:00</updated>
+<id>https://jlroofs.github.io//2019/08/11/124FakeStreet</id>
+<content type="html" xml:base="https://jlroofs.github.io//2019/08/11/124FakeStreet.html">&lt;h1&gt;{{ title }} in {{ city }}&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;align: center; column-count: 4; padding: 0 50px 0 50px&quot;&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+&lt;/div&gt;
+</content>
+<category term="Metal Roof" />
+<summary> in </summary>
+</entry>
+<entry>
+<title>40x60 Post Frame</title>
+<link href="https://jlroofs.github.io//2019/08/10/40x60_post_frame.html" rel="alternate" type="text/html" title="40x60 Post Frame" />
+<published>2019-08-10T12:32:46-05:00</published>
+<updated>2019-08-10T12:32:46-05:00</updated>
+<id>https://jlroofs.github.io//2019/08/10/40x60_post_frame</id>
+<content type="html" xml:base="https://jlroofs.github.io//2019/08/10/40x60_post_frame.html">&lt;h1&gt;{{ title }} in {{ city }}&lt;/h1&gt;
+&lt;hr /&gt;
+
+</content>
+<category term="Post Frame" />
+<summary> in </summary>
+</entry>
+</feed>
