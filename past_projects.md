@@ -28,7 +28,7 @@ layout: default
       {% if tag != 'Post Frame' %}
         {% assign t = tag | first %}
         {% assign posts = tag | last %}
-        <li>  -  {{ posts | size }} {{t | downcase | replace:" ","-" }} projects!</li>
+        <li>{{ posts | size }} {{t | downcase }} projects!</li>
       {% endif %}
     {% endfor %}
   </ul>
