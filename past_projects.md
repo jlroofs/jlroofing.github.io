@@ -13,7 +13,7 @@ layout: default
       {% for tag in post.tags %}
         {% assign t = tag | first %}
         <li>
-          <a href="{{ post.url }}">{{ post.title }} --- { t }</a>
+          <a href="{{ post.url }}">{{ post.title }} --- {{ t }}</a>
         </li>
       {% endfor %}
     {% endfor %}
