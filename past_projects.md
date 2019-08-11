@@ -29,7 +29,7 @@ layout: default
     {% for tag in site.tags %}
       {% if tag != 'Post Frame' %}
         {% assign t = tag | first %}
-        {% assign posts = tag | last %}
+        {% assign posts = tag | second %}
         <li>{{ posts | size }} {{t | downcase }} projects!</li>
       {% endif %}
     {% endfor %}
