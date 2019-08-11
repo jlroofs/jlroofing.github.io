@@ -11,7 +11,7 @@ layout: default
   <ul>
     {% for post in site.posts %}
       {% for tag in post.tags %}
-        {% assign t = tag | second %}
+        {% assign t = tag | first %}
         <li>
           <a href="{{ post.url }}">{{ post.title }} --- {{ t }}</a>
         </li>
