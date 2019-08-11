@@ -3,7 +3,29 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-11T09:26:19-05:00</updated>
+<updated>2019-08-11T09:27:48-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+<entry>
+<title>124 Fake Street</title>
+<link href="https://jlroofs.github.io//mayfield/2008/11/19/124FakeStreet.html" rel="alternate" type="text/html" title="124 Fake Street" />
+<published>2008-11-19T08:30:32-06:00</published>
+<updated>2008-11-19T08:30:32-06:00</updated>
+<id>https://jlroofs.github.io//mayfield/2008/11/19/124FakeStreet</id>
+<content type="html" xml:base="https://jlroofs.github.io//mayfield/2008/11/19/124FakeStreet.html">&lt;h1&gt;IT WORKED&lt;/h1&gt;
+</content>
+<category term="Mayfield" />
+<summary>IT WORKED</summary>
+</entry>
+<entry>
+<title>123 Fake Street</title>
+<link href="https://jlroofs.github.io//elkton/2008/10/19/123FakeStreet.html" rel="alternate" type="text/html" title="123 Fake Street" />
+<published>2008-10-19T12:32:46-05:00</published>
+<updated>2008-10-19T12:32:46-05:00</updated>
+<id>https://jlroofs.github.io//elkton/2008/10/19/123FakeStreet</id>
+<content type="html" xml:base="https://jlroofs.github.io//elkton/2008/10/19/123FakeStreet.html">&lt;h1&gt;IT WORKED&lt;/h1&gt;
+</content>
+<category term="Elkton" />
+<summary>IT WORKED</summary>
+</entry>
 </feed>
