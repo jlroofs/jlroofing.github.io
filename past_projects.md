@@ -8,38 +8,47 @@ layout: default
 </div>
 
 <section>
-<ul>
-{% for post in site.posts %}
-  <l1><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+  <ul>
+    {% for post in site.posts %}
+      <l1><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 
-<hr>
+  <hr>
 
-<ul class="tags">
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-{% endfor %}
-</ul>
+  <ul class="tags">
+    {% for tag in site.tags %}
+      {% assign t = tag | first %}
+      {% assign posts = tag | last %}
+      <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+    {% endfor %}
+  </ul>
 
-<hr>
+  <hr>
 
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
+  {% for tag in site.tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
 
-{{ t | downcase }}
-<ul>
-{% for post in posts %}
-  {% if post.tags contains t %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
-{% endfor %}
+  {{ t | downcase }}
+    <ul>
+      {% for post in posts %}
+        {% if post.tags contains t %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
+
+  <ul class="cats">
+  {% for category in site.categories %}
+    {% assign c = category | first %}
+    {% assign posts = category | last %}
+    <li>{{c | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+  {% endfor %}
+  </ul>
+
 </section>
