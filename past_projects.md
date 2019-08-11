@@ -10,14 +10,9 @@ layout: default
 <div class="past_projects">
   <ul>
     {% for post in site.posts %}
-      {% for tag in post.tags %}
-        {% if tag != 'Post Frame' and tag != 'Metal Roof' %}
-          {% assign t = tag | first %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }} --- {{ post.city }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }} --- {{ post.city }}</a>
+      </li>
     {% endfor %}
   </ul>
 
@@ -27,11 +22,9 @@ layout: default
   <h3>We have completed:</h3>
   <ul class="tags">
     {% for tag in site.tags %}
-      {% if tag != 'Post Frame' %}
-        {% assign t = tag | first %}
-        {% assign posts = tag | last %}
-        <li>{{ posts | size }} {{t | downcase }} projects!</li>
-      {% endif %}
+      {% assign t = tag | first %}
+      {% assign posts = tag | last %}
+      <li>{{ posts | size }} {{t | downcase }} projects!</li>
     {% endfor %}
   </ul>
 
