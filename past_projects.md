@@ -21,9 +21,11 @@ layout: default
 
   <ul class="tags">
     {% for tag in site.tags %}
-      {% assign t = tag | first %}
-      {% assign posts = tag | last %}
-      <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+      {% if tag != 'Post Frame' %}
+        {% assign t = tag | first %}
+        {% assign posts = tag | last %}
+        <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+      {% endif %}
     {% endfor %}
   </ul>
 
