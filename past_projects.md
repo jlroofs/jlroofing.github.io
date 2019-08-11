@@ -8,16 +8,6 @@ layout: default
 </div>
 
 <div class="past_projects">
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }} --- {{ post.city }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <hr>
-
 
   <h3>We have completed:</h3>
   <ul class="tags">
@@ -30,7 +20,16 @@ layout: default
 
   <hr>
 
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }} --- {{ post.city }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
   <hr>
+
 
   {% for tag in site.tags %}
     {% assign t = tag | first %}
