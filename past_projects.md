@@ -11,10 +11,12 @@ layout: default
   <ul>
     {% for post in site.posts %}
       {% for tag in post.tags %}
-        {% assign t = tag | first %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }} --- {{ t }}</a>
-        </li>
+        {% if tag != 'Post Frame' and tag != 'Metal Roof' %}
+          {% assign t = tag | first %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }} --- {{ t }}</a>
+          </li>
+        {% endif %}
       {% endfor %}
     {% endfor %}
   </ul>
@@ -34,14 +36,6 @@ layout: default
   </ul>
 
   <hr>
-
-  <ul class="cities">
-    {% for city in site.cities %}
-      {% assign c = city | first %}
-      {% assign posts = city | last %}
-      <li>{{city | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-    {% endfor %}
-  </ul>
 
   <hr>
 
