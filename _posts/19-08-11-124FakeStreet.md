@@ -3,7 +3,7 @@ layout: post
 title: '40x60 Metal Roof'
 city: Mayfield
 description: >-
-  "40ft x 60ft post frame building with sheet metal roof. JLRoofing built the entire house except for the prestanding garage."
+  40ft x 60ft post frame building with sheet metal roof. JLRoofing built the entire house except for the prestanding garage.
 date: 19-08-11 08:30:32
 published: true
 tags: ['Metal Roof']
