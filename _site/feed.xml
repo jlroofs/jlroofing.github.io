@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-13T14:23:38-05:00</updated>
+<updated>2019-08-13T14:29:09-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
 <entry>
@@ -14,13 +14,22 @@
 <id>https://jlroofs.github.io//2019/08/11/124FakeStreet</id>
 <content type="html" xml:base="https://jlroofs.github.io//2019/08/11/124FakeStreet.html">&lt;div style=&quot;align: center; column-count: 4; padding: 0 50px 0 50px&quot;&gt;
  &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+
  &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+
  &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+
  &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190812_132639.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190812_132708.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
+
+ &lt;img src=&quot;{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190813_084030.jpg&quot; alt=&quot;Post Frame Mayfield&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
 &lt;/div&gt;
 </content>
 <category term="Metal Roof" />
-<summary>    </summary>
+<summary> </summary>
 </entry>
 <entry>
 <title>40x60 Post Frame</title>

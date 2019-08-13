@@ -10,7 +10,16 @@ tags: ['Metal Roof']
 ---
 <div style="align: center; column-count: 4; padding: 0 50px 0 50px">
  <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+
  <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+
  <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+
  <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190812_132639.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190812_132708.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190813_084030.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
 </div>
