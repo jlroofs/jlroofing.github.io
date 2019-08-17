@@ -1,5 +1,6 @@
 ---
 layout: default
+default_footer: true
 ---
 
 <div style="padding: 0 100 0 100;">
