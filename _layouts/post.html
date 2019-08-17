@@ -1,9 +1,10 @@
 ---
 layout: default
-post_footer: true
+default_footer: false
 ---
 <h1>{{ page.title }} in {{ page.city }}</h1>
 <h3>Project Description:</h3>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp{{ page.description }}</p>
 <hr>
 {{ content }}
+{{% include post_footer.html %}}
