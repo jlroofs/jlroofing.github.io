@@ -5,7 +5,7 @@
 layout: default
 default_footer: true
 ---
-<h3>Check out our latest project!</h3>
+<h3 id="main_page">Check out our latest project!</h3>
 {% for post in site.posts limit:1 %}
   {{ post.excerpt }}
   {% include cc_copyright_notice.html %}
