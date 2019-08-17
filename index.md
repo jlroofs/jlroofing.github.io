@@ -7,5 +7,5 @@ default_footer: true
 ---
 <h3>Check out our latest project!</h3>
 {% for post in site.posts limit:1 %}
-  {{ post }}
+  {{ post.excerpt }}
 {% endfor %}
