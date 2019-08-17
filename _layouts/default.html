@@ -36,7 +36,9 @@
       {% endif %}
 
       <div class="container">
-        <img src="{{site.url}}/assets/images/co_logo.png" alt="co_logo" style="height: 350px; width: 600px; align-items: center;">
+        {% if page.url != "/404.html" %}
+          <img src="{{site.url}}/assets/images/co_logo.png" alt="co_logo" style="height: 350px; width: 600px; align-items: center;">
+        {% endif %}
     	  <section id="navi">
           <div style="float: center; padding: 0 75px 0 75px;">
 <!--            <div style="text-align: center;">
