@@ -22,4 +22,6 @@ tags: ['Metal Roof']
  <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190812_132708.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
 
  <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190813_084030.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
+
+ <img src="{{ site.url }}/assets/projects/Mayfield-08-19/mayfield_007_19_08.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
 </div>
