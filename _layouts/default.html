@@ -55,6 +55,7 @@
 
     <a name=#top></a>
   </body>
-
-{% include footer.html %}
+{% if footer %}
+  {% include footer.html %}
+{% endif %}
 </html>
