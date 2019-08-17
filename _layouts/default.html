@@ -17,6 +17,7 @@
       gtag('config', 'UA-145437110-1');
     </script>
 
+    {% include styleing.html %}
     <link rel="icon" href="{{ site.url }}/assets/images/co_logo.png_small" type="image/x-icon"/>
     <link rel="shortcut-icon" href="{{ site.url }}/assets/images/co_logo_small.png" type="image/x-icon">
 
@@ -37,7 +38,7 @@
 
       <div class="container">
         {% if page.url == "/404.html" %}
-          <big><big><h1 style="text-align: center;">404</h1></big></big>
+          <big><big><h1 id="404_header" style="text-align: center;">404</h1></big></big>
         {% else %}
           <img src="{{site.url}}/assets/images/co_logo.png" alt="co_logo" style="height: 350px; width: 600px;">
         {% endif %}
