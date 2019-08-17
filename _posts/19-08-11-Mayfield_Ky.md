@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mayfield Kentucky'
+title: 'Post Frame Building w/ Metal Roof'
 city: Mayfield
 description: >-
   Home in Mayfield Kentucky built by JLRoofing
