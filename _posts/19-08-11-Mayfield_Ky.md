@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '40x60 Metal Roof'
+title: 'Mayfield Kentucky'
 city: Mayfield
 description: >-
-  40ft x 60ft post frame building with sheet metal roof. JLRoofing built the entire house except for the prestanding garage.
+  Home in Mayfield Kentucky built by JLRoofing
 date: 19-08-11 08:30:32
 published: true
 tags: ['Metal Roof']
