@@ -55,6 +55,10 @@
 
     <a name=#top></a>
   </body>
+{% if page.default_footer %}
+  {% include default_footer.html %}
+{% endif %}
+
 {% if page.b2t_footer %}
   {% include b2t_footer.html %}
 {% endif %}
