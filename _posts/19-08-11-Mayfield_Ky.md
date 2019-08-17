@@ -7,6 +7,7 @@ description: >-
 date: 19-08-11 08:30:32
 published: true
 tags: ['Metal Roof']
+excerpt_separator: <!--more-->
 ---
 <div style="padding: 0 0 0 25px;">
   <div style="float: center; column-count: 4; padding: 0 25px 0 25px">
@@ -27,3 +28,4 @@ tags: ['Metal Roof']
    <img src="{{ site.url }}/assets/projects/Mayfield-08-19/mayfield_007_19_08.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
   </div>
 </div>
+<!--more-->
