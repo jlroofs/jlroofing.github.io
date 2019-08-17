@@ -21,7 +21,7 @@ default_footer: true
 
   <hr>
 
-  <ul>
+  <ul style="column-count: 3">
     {% for post in site.posts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }} --- {{ post.city }}</a>
