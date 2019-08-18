@@ -24,6 +24,7 @@ default_footer: true
         </div>
       </div>
     </div>
+  {% endfor %}
 {% endfor %}
 
 $('.next').click(function(){
