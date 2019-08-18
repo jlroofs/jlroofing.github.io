@@ -6,7 +6,7 @@ city: Mayfield
 description: >-
   Home in Mayfield Kentucky built by JLRoofing
 
-tags: ['Metal Roof']
+tags: ['Metal Roof', 'Post Frame']
 
 images: [/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg, /assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg, /assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg, /assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg, /assets/projects/Mayfield-08-19/IMG_20190812_132639.jpg, /assets/projects/Mayfield-08-19/IMG_20190812_132708.jpg, /assets/projects/Mayfield-08-19/IMG_20190813_084030.jpg, /assets/projects/Mayfield-08-19/mayfield_007_19_08.jpg]
 

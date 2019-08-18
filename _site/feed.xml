@@ -3,26 +3,18 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-18T15:00:33-05:00</updated>
+<updated>2019-08-18T15:02:56-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
 <entry>
-<title>Post Frame Building w/ Metal Roof</title>
-<link href="https://jlroofs.github.io//2019/08/11/Mayfield_Ky.html" rel="alternate" type="text/html" title="Post Frame Building w/ Metal Roof" />
-<published>2019-08-11T08:30:32-05:00</published>
-<updated>2019-08-11T08:30:32-05:00</updated>
+<title>Mayfield_ky</title>
+<link href="https://jlroofs.github.io//2019/08/11/Mayfield_Ky.html" rel="alternate" type="text/html" title="Mayfield_ky" />
+<published>2019-08-11T00:00:00-05:00</published>
+<updated>2019-08-11T00:00:00-05:00</updated>
 <id>https://jlroofs.github.io//2019/08/11/Mayfield_Ky</id>
-<content type="html" xml:base="https://jlroofs.github.io//2019/08/11/Mayfield_Ky.html">&lt;div style=&quot;align: right;&quot;&gt;
-  &lt;div style=&quot;column-count: 3; padding: 0 auto 0 auto&quot;&gt;
-    {% for image in page.images %}
-      &lt;img src=&quot;{{ site.url }}{{ image }}&quot; style=&quot;height: 250px; width: 250px;&quot; /&gt;
-    {% endfor %}
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;!--more--&gt;
+<content type="html" xml:base="https://jlroofs.github.io//2019/08/11/Mayfield_Ky.html">
 </content>
-<category term="Metal Roof" />
-<summary>                                                                                            </summary>
+<summary></summary>
 </entry>
 <entry>
 <title>40x60 Post Frame</title>
