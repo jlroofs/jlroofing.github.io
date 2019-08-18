@@ -8,7 +8,7 @@ date: 19-08-11 08:30:32
 published: true
 tags: ['Metal Roof']
 excerpt_separator: <!--more-->
-images: ["/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg", "/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg", "/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg"]
+images: ["{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg", "{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg", "{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg"]
 ---
 <div style="align: right;">
   <div style="column-count: 3; padding: 0 auto 0 auto">
@@ -33,8 +33,8 @@ images: ["/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg", "/assets/pro
 <hr>
 <div style="align: right;">
   <div style="column-count: 3; padding: 0 auto 0 auto">
-    {% for image in post.images %}
-      <img src="{{ post.image | prepend: site.baseurl }}" height="250px" width="250px"/>"
+    {% for image in page.images %}
+      <img src="{ post.image }" height="250px" width="250px"/>"
     {% endfor %}
     </div>
   </div>

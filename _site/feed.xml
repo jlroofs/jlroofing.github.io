@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-18T13:40:48-05:00</updated>
+<updated>2019-08-18T13:43:28-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
 <entry>
@@ -36,8 +36,8 @@
 
 &lt;div style=&quot;align: right;&quot;&gt;
   &lt;div style=&quot;column-count: 3; padding: 0 auto 0 auto&quot;&gt;
-    {% for image in post.images %}
-      &lt;img src=&quot;{{ post.image | prepend: site.baseurl }}&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;&quot;
+    {% for image in page.images %}
+      &lt;img src=&quot;{ post.image }&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;&quot;
     {% endfor %}
     &lt;/div&gt;
   &lt;/div&gt;
