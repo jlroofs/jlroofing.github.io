@@ -33,10 +33,10 @@ default_footer: true
 
   <hr>
 
-  <ul style="column-count: 3">
+  <ul style="column-count: 3; padding: 0 0 15px 0;">
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}" style="padding: 0 0 15px 0;">{{ post.title }} --- {{ post.city }}</a>
+        <a href="{{ post.url }}">{{ post.title }} --- {{ post.city }}</a>
       </li>
     {% endfor %}
   </ul>
