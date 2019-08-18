@@ -38,7 +38,7 @@ body {
   display: block;
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url("{{ site.url }}/assets/images/4x4.png") 50 round;
+  border-image: url("{{ site.url }}/assets/images/4x4.png") 100 round;
 }
 
 .sidenav a:hover {
