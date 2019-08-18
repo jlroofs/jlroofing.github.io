@@ -54,6 +54,9 @@ img[alt="project photo"] {
   width: 250px;
   height: 250px; }
 
+.copyright {
+  position: relative; }
+
 .footer {
   position: relative;
   margin-bottom: 0;
