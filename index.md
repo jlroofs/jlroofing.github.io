@@ -16,10 +16,10 @@ default_footer: true
     <div class="lightbox" id="lightbox{{ forloop.index }}">
       <div class="table">
         <div class="table-cell">
-          <img class="close" src="/img/close.svg" />
+          <img class="close" src="{{ image }}" />
           <img class="next" src="/img/next.svg" />
           <img class="prev" src="/img/prev.svg" />
-          <div class="item" style="background: url('{{ item.image }}') center center no-repeat; background-size: cover;">
+          <div class="item" style="background: url('{{ image }}') center center no-repeat; background-size: cover;">
           </div>
         </div>
       </div>
