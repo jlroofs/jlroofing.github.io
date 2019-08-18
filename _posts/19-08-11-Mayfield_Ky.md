@@ -10,7 +10,7 @@ tags: ['Metal Roof']
 excerpt_separator: <!--more-->
 ---
 <div style="padding: 0 0 0 auto;">
-  <div style="float: center; column-count: 3; align-items: right; padding: 0 auto 0 auto">
+  <div style="column-count: 3; align-items: right; padding: 0 auto 0 auto">
    <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
 
    <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg" alt="Post Frame Mayfield" height="250px" width="250px"/>
