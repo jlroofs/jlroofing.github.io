@@ -31,7 +31,7 @@ body {
   display: block;
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url("https://jlroofs.github.io/assets/images/4x4.png") 100% round; }
+  border-image: url("https://jlroofs.github.io/assets/images/4x4.png") 100 100 round; }
 
 .sidenav a:hover {
   color: #064579; }
