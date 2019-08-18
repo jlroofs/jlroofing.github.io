@@ -4,7 +4,6 @@
 body {
     background-color: #ffffff;
     color: #000000;
-    padding-bottom: 75px;
 }
 
 #404_header {
@@ -52,7 +51,7 @@ body {
 }
 
 .footer {
-  position: sticky;
+  position: absolute;
   margin-top: -75px;
   margin-bottom: 0;
   padding-bottom: 0;
