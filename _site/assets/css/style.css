@@ -1,23 +1,17 @@
----
----
-
 body {
-    position: relative;
-    background-color: #ffffff;
-    color: #000000;
-}
+  position: absolute;
+  background-color: #ffffff;
+  color: #000000; }
 
 #404_header {
   background-color: #000000;
   color: #ff0000;
-  font-family: 'Barrio';
-}
+  font-family: 'Barrio'; }
 
 #main_page {
   background-color: #ffffff;
   color: #000000;
-  font-family: 'Barrio';
-}
+  font-family: 'Barrio'; }
 
 .sidenav {
   width: 150px;
@@ -28,8 +22,7 @@ body {
   background: #eee;
   overflow-x: hidden;
   padding: 8px 0;
-  float: left;
-}
+  float: left; }
 
 .sidenav a {
   padding: 6px 8px 6px 16px;
@@ -39,23 +32,21 @@ body {
   display: block;
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url("{{ site.url }}/assets/images/4x4.png") 150 100 150 100 round;
-}
+  border-image: url("https://jlroofs.github.io/assets/images/4x4.png") 150 100 150 100 round; }
 
 .sidenav a:hover {
-  color: #064579;
-}
+  color: #064579; }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-}
+  .sidenav {
+    padding-top: 15px; }
 
+  .sidenav a {
+    font-size: 18px; } }
 .footer {
   position: relative;
   margin-top: -75px;
   /* negative value of footer height */
   height: 75px;
   clear: both;
-  text-align: center;
-}
+  text-align: center; }
