@@ -44,9 +44,10 @@ body {
   .sidenav a {
     font-size: 18px; } }
 .footer {
-  position: static;
+  position: absolute;
   margin-top: -75px;
   margin-bottom: 0;
+  padding-bottom: 0;
   /* negative value of footer height */
   height: 75px;
   clear: both;
