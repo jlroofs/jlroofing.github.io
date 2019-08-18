@@ -45,6 +45,7 @@ body {
 .footer {
   position: static;
   margin-top: -75px;
+  margin-bottom: 0;
   /* negative value of footer height */
   height: 75px;
   clear: both;
