@@ -27,7 +27,7 @@ default_footer: true
     {% for tag in site.tags %}
       {% assign t = tag | first %}
       {% assign posts = tag | last %}
-      <li><span style="color: #00ff00;">{{ posts | size }}</span> {{t | downcase }} projects!</li>
+      <li><span style="color: #000f00;">{{ posts | size }}</span> {{t | downcase }} projects!</li>
     {% endfor %}
   </ul>
 
