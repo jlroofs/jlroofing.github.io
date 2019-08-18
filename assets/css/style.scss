@@ -2,7 +2,6 @@
 ---
 
 body {
-    position: absolute;
     background-color: #ffffff;
     color: #000000;
 }
@@ -52,7 +51,7 @@ body {
 }
 
 .footer {
-  position: relative;
+  position: static;
   margin-top: -75px;
   /* negative value of footer height */
   height: 75px;
