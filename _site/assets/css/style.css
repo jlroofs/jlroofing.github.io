@@ -42,3 +42,6 @@ body {
 
   .sidenav a {
     font-size: 18px; } }
+.footer {
+  position: absolute;
+  bottom: 0; }
