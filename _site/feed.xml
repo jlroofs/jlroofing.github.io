@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-18T14:01:39-05:00</updated>
+<updated>2019-08-18T14:05:15-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
 <entry>
@@ -15,14 +15,14 @@
 <content type="html" xml:base="https://jlroofs.github.io//2019/08/11/Mayfield_Ky.html">&lt;div style=&quot;align: right;&quot;&gt;
   &lt;div style=&quot;column-count: 3; padding: 0 auto 0 auto&quot;&gt;
     {% for image in page.images %}
-      &amp;lt;img src={{ image | prepend: site.baseurl }} height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;
+      &lt;img src=&quot;{{ image | prepend: site.baseurl }}&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;&quot;
     {% endfor %}
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;!--more--&gt;
 </content>
 <category term="Metal Roof" />
-<summary>            &amp;lt;img src=//assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          &amp;lt;img src=//assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          &amp;lt;img src=//assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          &amp;lt;img src=//assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          &amp;lt;img src=//assets/projects/Mayfield-08-19/IMG_20190812_132639.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          &amp;lt;img src=//assets/projects/Mayfield-08-19/IMG_20190812_132708.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          &amp;lt;img src=//assets/projects/Mayfield-08-19/IMG_20190813_084030.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          &amp;lt;img src=//assets/projects/Mayfield-08-19/mayfield_007_19_08.jpg height=&quot;250px&quot; width=&quot;250px&quot;/&amp;gt;&quot;          </summary>
+<summary>            &quot;          &quot;          &quot;          &quot;          &quot;          &quot;          &quot;          &quot;          </summary>
 </entry>
 <entry>
 <title>40x60 Post Frame</title>
