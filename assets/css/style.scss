@@ -50,6 +50,15 @@ body {
   .sidenav a {font-size: 18px;}
 }
 
+
+
+hr {
+    display:block;
+    border:0px;
+    height:10px;
+    background-image:url("{{ site.url }}/assets/images/4x4.png");
+}
+
 .footer {
   position: relative;
   margin-bottom: 0;
