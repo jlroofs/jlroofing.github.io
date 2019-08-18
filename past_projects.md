@@ -13,7 +13,7 @@ default_footer: true
 <div style="align: right;">
   <div style="column-count: 3; padding: 0 auto 0 auto">
 
-   <img src="{{ site.url }}/assets/assets/images/Unsorted/20181210_161556.jpg" alt="" height="250px" width="250px"/>
+   <img src="{{ site.url }}/assets/images/Unsorted/20181210_161556.jpg" alt="" height="250px" width="250px"/>
 
    <img src="{{ site.url }}/assets/images/Unsorted/20190314_142645.jpg" alt="" height="250px" width="250px"/>
 
