@@ -18,7 +18,7 @@ published: true
 <div style="align: right;">
   <div style="column-count: 3; padding: 0 auto 0 auto">
     {% for image in page.images %}
-      <img src="{{ image | prepend: site.baseurl }} height="250px" width="250px"/>"
+      <img src="{{ image | prepend: site.baseurl }}" height="250px" width="250px"/>"
     {% endfor %}
     </div>
   </div>
