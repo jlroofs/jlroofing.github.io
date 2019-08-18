@@ -69,7 +69,8 @@ img[alt="project photo"] {
 .copyright {
   position: relative;
   text-align: center;
-  align-items: flex-end;
+  height: 0px;
+  clear: both;
 }
 
 .footer {
