@@ -18,9 +18,7 @@ published: true
 <div style="align: right;">
   <div style="column-count: 3; padding: 0 auto 0 auto">
     {% for image in page.images %}
-      <div style="width: 250px; height: 250px;>
-        ![project_photo]({{ image }})
-      </div>
+      ![project photo]({{ site.url }}{{ image }})
     {% endfor %}
     </div>
   </div>

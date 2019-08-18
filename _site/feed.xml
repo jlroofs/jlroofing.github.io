@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 <link href="https://jlroofs.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://jlroofs.github.io//" rel="alternate" type="text/html" />
-<updated>2019-08-18T14:27:50-05:00</updated>
+<updated>2019-08-18T14:33:57-05:00</updated>
 <id>https://jlroofs.github.io//</id>
 <subtitle>&quot;TEMP SLOGAN&quot;</subtitle>
 <entry>
@@ -15,16 +15,14 @@
 <content type="html" xml:base="https://jlroofs.github.io//2019/08/11/Mayfield_Ky.html">&lt;div style=&quot;align: right;&quot;&gt;
   &lt;div style=&quot;column-count: 3; padding: 0 auto 0 auto&quot;&gt;
     {% for image in page.images %}
-      &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;
-        ![project_photo]({{ image }})
-      &lt;/div&gt;
+      ![project photo]({{ site.url }}{{ image }})
     {% endfor %}
     &lt;/div&gt;
-&lt;p&gt;&amp;lt;/div&amp;gt;
-&lt;!--more--&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;!--more--&gt;
 </content>
 <category term="Metal Roof" />
-<summary>            &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;        ![project_photo](/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg)                &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;        ![project_photo](/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg)        &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;    ![project_photo](/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg)  &amp;lt;/div&amp;gt;  &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;    ![project_photo](/assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg)  &amp;lt;/div&amp;gt;  &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;    ![project_photo](/assets/projects/Mayfield-08-19/IMG_20190812_132639.jpg)  &amp;lt;/div&amp;gt;  &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;    ![project_photo](/assets/projects/Mayfield-08-19/IMG_20190812_132708.jpg)  &amp;lt;/div&amp;gt;  &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;    ![project_photo](/assets/projects/Mayfield-08-19/IMG_20190813_084030.jpg)  &amp;lt;/div&amp;gt;  &amp;lt;div style=&quot;width: 250px; height: 250px;&amp;gt;    ![project_photo](/assets/projects/Mayfield-08-19/mayfield_007_19_08.jpg)  &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;</summary>
+<summary>            ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg)          ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190809_063922.jpg)          ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg)          ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190808_093607.jpg)          ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190812_132639.jpg)          ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190812_132708.jpg)          ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/IMG_20190813_084030.jpg)          ![project photo](https://jlroofs.github.io/assets/projects/Mayfield-08-19/mayfield_007_19_08.jpg)          </summary>
 </entry>
 <entry>
 <title>40x60 Post Frame</title>
