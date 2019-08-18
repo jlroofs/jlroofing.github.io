@@ -34,7 +34,7 @@ images: ["/assets/projects/Mayfield-08-19/IMG_20190809_124149.jpg", "/assets/pro
 <div style="align: right;">
   <div style="column-count: 3; padding: 0 auto 0 auto">
     {% for image in post.images %}
-      <img src="{{ site.url }}{{ image }}" height="250px" width="250px"/>"
+      <img src="{{ post.image | prepend: site.baseurl }}" height="250px" width="250px"/>"
     {% endfor %}
     </div>
   </div>
