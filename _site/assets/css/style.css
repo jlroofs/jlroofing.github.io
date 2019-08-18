@@ -44,6 +44,8 @@ body {
     font-size: 18px; } }
 hr {
   display: block;
+  padding-left: 0;
+  padding-right: 0;
   border: 0px;
   height: 10px;
   background-image: url("https://jlroofs.github.io/assets/images/4x4_alt.png"); }

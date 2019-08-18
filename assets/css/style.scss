@@ -54,6 +54,8 @@ body {
 
 hr {
     display:block;
+    padding-left: 0;
+    padding-right: 0;
     border:0px;
     height:10px;
     background-image:url("{{ site.url }}/assets/images/4x4_alt.png");
