@@ -1,1 +1,1 @@
-Sitemap: https://jlroofs.github.io/sitemap.xml
+Sitemap: http://jlroofing.us/sitemap.xml
