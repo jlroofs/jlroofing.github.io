@@ -64,14 +64,19 @@ hr {
 button {
   background-color: #ffffff;
   border: outset;
+  border-color: #ff0000;
   color: #000000;
-  padding: 20px 34px;
+  padding: 20px 34px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
 }
 
+ul {
+  list-style: none;
+  padding: 0 0 10px 0;
+}
 .footer {
   position: relative;
   margin-bottom: 0;
