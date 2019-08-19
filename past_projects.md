@@ -1,6 +1,7 @@
 ---
-layout: ucon
+layout: default
 default_footer: true
+under_construction: true
 ---
 
 <div style="padding: 0 100 0 100;">

@@ -1,6 +1,7 @@
 ---
-layout: ucon
+layout: default
 default_footer: true
+under_construction: true
 ---
 <h1>About JLRoofing</h1>
 <hr>
