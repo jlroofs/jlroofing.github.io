@@ -17,6 +17,8 @@ default_footer: true
 
    <img src="{{ site.url }}/assets/images/Unsorted/20190314_142645.jpg" alt="" height="250px" width="250px"/>
 
+   <img src="{{ site.url }}/assets/projects/Mayfield-08-19/IMG_20190807_095918.jpg" alt="" height="250px" width="250px"/>
+
    <img src="{{ site.url }}/assets/projects/Mayfield-08-19/mayfield_007_19_08.jpg" alt="" height="250px" width="250px"/>
 
   </div>
