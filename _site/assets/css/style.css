@@ -50,7 +50,7 @@ hr {
   height: 10px;
   background-image: url("https://jlroofs.github.io/assets/images/4x4_alt.png"); }
 
-.button {
+button {
   background-color: #ffffff;
   border: outset;
   color: #000000;
