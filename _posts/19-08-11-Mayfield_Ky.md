@@ -16,7 +16,7 @@ published: true
 ---
 
 <div style="align: right;">
-  <div style="column-count: 3; padding: 0 auto 0 auto">
+  <div style="column-count: 4; padding: 0 0 0 0">
     {% for image in page.images %}
       <img src="{{ site.url }}{{ image }}" style="height: 250px; width: 250px;"/>
     {% endfor %}
