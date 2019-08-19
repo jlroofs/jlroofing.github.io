@@ -10,6 +10,6 @@ default_footer: true
 <h2>Legal Documents</h2>
 <div style="column-count: 4;">
   <ul>
-    <li><a href="{{ site.url }}/privacy_policy.html">Privacy Policy</a></li>
+    <li><a href="{{ site.url }}/legal/privacy_policy.html">Privacy Policy</a></li>
   <ul>
 </div>
