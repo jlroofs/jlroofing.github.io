@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ucon
 default_footer: true
 ---
 
