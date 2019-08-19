@@ -61,10 +61,15 @@ hr {
     background-image:url("{{ site.url }}/assets/images/4x4_alt.png");
 }
 
-img[alt="project photo"] {
-   width: 250px;
-   height: 250px;
-}
+.button {
+background-color: #000000;
+border: none;
+color: #ffffff;
+padding: 20px 34px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
 
 .footer {
   position: relative;
