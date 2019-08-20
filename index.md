@@ -14,9 +14,3 @@ under_construction: true
   {{ post.excerpt }}
   {% include cc_copyright_notice.html %}
 {% endfor %}
-
-<!--
-$('.next').click(function(){
-  $(this).closest('.lightbox').hide().next().show();
-});
--->
