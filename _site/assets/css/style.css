@@ -31,7 +31,7 @@ body {
   display: block;
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url("http://jlroofing.us/assets/images/4x4.png") 150 100 150 100 round; }
+  border-image: url("jlroofing.us/assets/images/4x4.png") 150 100 150 100 round; }
 
 .sidenav a:hover {
   color: #064579; }
@@ -48,7 +48,7 @@ hr {
   padding-right: 0;
   border: 0px;
   height: 10px;
-  background-image: url("http://jlroofing.us/assets/images/4x4_alt.png"); }
+  background-image: url("jlroofing.us/assets/images/4x4_alt.png"); }
 
 button {
   background-color: #ffffff;
